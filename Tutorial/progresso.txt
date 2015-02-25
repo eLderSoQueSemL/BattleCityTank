@@ -1,0 +1,6 @@
+quantidade_inimigos=8
+inimigo_criado_fase=4
+vidas=3
+score=0
+tilemap=1
+quantidade_tilemaps=3
